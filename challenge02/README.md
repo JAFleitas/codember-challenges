@@ -1,4 +1,4 @@
-##Reto 2: ¡Atrapa a esos ciber criminales!
+Reto 2: ¡Atrapa a esos ciber criminales!
 
 Problema
 
