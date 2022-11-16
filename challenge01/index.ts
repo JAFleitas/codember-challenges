@@ -1,5 +1,5 @@
 import axios from "axios";
-const codember = async () => {
+const challengeOneResult = async () => {
   const { data } = await axios("https://codember.dev/users.txt", {
     method: "GET",
     headers: {
@@ -49,4 +49,4 @@ const codember = async () => {
   console.log(countUser);
   console.log(lastUser);
 };
-codember();
+challengeOneResult();
